@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Enabling cryo-electron tomography from cells to multicellular organisms and tissues"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,15 +11,21 @@ redirect_from:
 About me
 ======
 
-I am a researcher in the Plitzko [CryoEM Technology Research Group](https://www.biochem.mpg.de/plitzko) at the [MPI of Biochemistry] (https://www.biochem.mpg.de/en) in a shared project with the Beck [Department for Molecular Sociology](https://www.biophys.mpg.de/molecular-sociology) at the [MPI of Biophysics](https://www.biophys.mpg.de/en) working cryo-FIB development for in situ structural biology. The aim is to enable structural biology  in cells and tissues including prominent developmental biology model systems such as D. melanogaster egg chamber, A. thaliana root tips, and C. elegans larvae. Biologically, I am very interested in nuclear pore complex structure and function for nucleocytoplasmic transport of large macromolecular complexes and their differences across cell types, as well as protein complexes involved in membrane remodelling such as [VIPP1](https://doi.org/10.1016/j.cell.2021.05.011). 
+I am a researcher in the Plitzko [CryoEM Technology Research Group](https://www.biochem.mpg.de/plitzko) at the [MPI of Biochemistry](https://www.biochem.mpg.de/en) in a shared project with the Beck [Department for Molecular Sociology](https://www.biophys.mpg.de/molecular-sociology) at the [MPI of Biophysics](https://www.biophys.mpg.de/en) working cryo-FIB development for in situ structural biology. The aim is to enable structural biology  in cells and tissues including prominent developmental biology model systems such as D. melanogaster egg chamber, A. thaliana root tips, and C. elegans larvae. Biologically, I am very interested in nuclear pore complex structure and function for nucleocytoplasmic transport of large macromolecular complexes and their differences across cell types, as well as protein complexes involved in membrane remodelling such as [VIPP1](https://doi.org/10.1016/j.cell.2021.05.011). 
 
 
 Structural Developmental Biology
 ======
 
+By deploying and improving the techniques and workflows available in cryo-focused ion beam and cryo-lift-out, we have been pushing cryo-ET into multicellular organisms and tissues to enable answering novel biological questions that require the molecular resolution of cryo-ET as well as to use the techniques as an exploratory tool.
+
 
 Modular FIB automation across microscope vendors
 ======
+
+I have been developing and maintaining the software package [SerialFIB](https://github.com/sklumpe/SerialFIB), a modular plaftform for automated cryo-FIB sample preparation, which is currently available for Thermo Fisher Scientific small dual beam instruments (e.g. Scios, Quanta, Aquilos 1 and 2) and newer generation PFIBs (Hydra, Arctis) as well as Zeiss CrossBeam instruments (e.g. 550). Drivers for TESCAN instruments are currently in development. 
+
+
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
