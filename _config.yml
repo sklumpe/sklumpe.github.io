@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Sven Klumpe"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Cryo-ET in cells and tissues"
+  location         : 
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=sven+klumpe"
   googlescholar    : "https://scholar.google.com/citations?user=0xs-E9wAAAAJ&hl=en"
-  email            :
+  email            : "klumpe@biochem.mpg.de"
   researchgate     :  "https://www.researchgate.net/profile/Sven-Klumpe-2" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
