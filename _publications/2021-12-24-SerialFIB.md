@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "A Modular Platform for Streamlining Automated Cryo-FIB Workflows"
+collection: publications
+permalink: /publication/2021-12-24-SerialFIB
+excerpt: 'Paper on the open-source software package SerialFIB for the automation and development of cryo-FIB workflows.'
+date: 2023-10-28
+venue: 'bioRxiv'
+paperurl: ''
+citation: ''
 ---
+Paper on the open-source software package SerialFIB for the automation and development of cryo-FIB workflows.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Download paper here](https://elifesciences.org/articles/70506)
+
+Recommended citation: 
